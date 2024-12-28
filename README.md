@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="Banners/GitHub Profile Banner New Redesign.png"/>
+  <a href="https://git.io/typing-svg"><img src="github-header-image.png"/>
   </a>
 </p>
 <!-- Banner -->
@@ -23,15 +23,12 @@
 <!-- Programming Languages -->
 
 
-<!-- Markup Languages -->
 <p>
 <div align="center">
-  	<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  	<img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white">
-	<img src="https://img.shields.io/badge/LaTex-FFFFFF.svg?style=for-the-badge&logo=latex&logoColor=008080">
+  	<img src="https://img.shields.io/badge/Optimism-FF0420.svg?style=for-the-badge&logo=optimism&logoColor=white">
+  	<img src="https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=for-the-badge&logo=ethereum&logoColor=white">
 </div>
 </p>
-<!-- Markup Languages -->
 
 <!-- Github Stats -->
 <p align="center">
