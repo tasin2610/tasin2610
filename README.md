@@ -32,11 +32,11 @@
 </div>
 </p>
 
+## Follow Me
+[![Paragraph](https://img.shields.io/badge/Paragraph-xyz-blue)](https://paragraph.xyz/@tasin2610)
+
 ## Stats
 <p align="center">
     <img width="39.7%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tasin2610&theme=tokyonight">
     <img width="59.3%" src="https://streak-stats.demolab.com/?user=tasin2610&theme=tokyonight&hide_border=true&border_radius=6">
 </p>
-
-## Follow Me
-[![Paragraph](https://img.shields.io/badge/Paragraph-xyz-blue)](https://paragraph.xyz/@tasin2610)
