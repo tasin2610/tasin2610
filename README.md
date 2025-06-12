@@ -12,7 +12,12 @@
 </p>
 <!-- Typing SVG -->
 
-
+### Areas of Interest
+- Ethereum & Layer 2 design  
+- MEV and execution mechanics  
+- Zero-knowledge proofs  
+- Cross-chain systems
+  
 ## Languages
 <!-- Programming Languages -->
 <p>
